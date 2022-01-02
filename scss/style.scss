@@ -64,7 +64,6 @@ main{
         margin :10px 0 25px 0;
         box-shadow: 2px 5px 10px 0px $grayish-blue;
         padding:20px;
-        //padding-bottom: 10px;
         display:flex;
         flex-direction: column;
         min-width: 250px;
@@ -84,10 +83,8 @@ main{
 
         .card-icon{
             margin-top: 20px;
-            //margin-left:40px;
             width:35px;
             height:35px;
-            //background:black;
             align-self: flex-end;
             margin-right: 10px;
         }
